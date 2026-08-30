@@ -817,3 +817,7 @@ footer {
     position: relative;
     overflow: hidden;
 }
+.hero > * {
+    position: relative;
+    z-index: 2;
+}
